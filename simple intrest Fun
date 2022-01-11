@@ -1,0 +1,6 @@
+def simple_intrest(p,r,t):
+    return(p*r*t)/100
+p=float(input("enter the principal : "))
+r=float(input("enter the rate : "))
+t=float(input("enter the time : "))
+print(" simple intrest = ",simple_intrest(p,r,t))
