@@ -1,0 +1,4 @@
+def student(name,age):
+    print("my name is",name)
+    print("my age is",age)
+student('abhishek',21)
