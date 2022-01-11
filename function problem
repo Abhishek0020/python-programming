@@ -1,0 +1,26 @@
+# python-programming
+#def greet():
+ #   print('good morning,abhishek')
+#greet()
+#def greet(name,dish):
+ #   print('good morning,',name)
+ #   print('please eat,',dish)
+#greet('anuj','pasta')
+#def average():
+ #   a=3
+  #  b=3
+   #return(c)
+#print(average())
+#def greet(name,dish='pasta'):
+ #   print('good morning',name)
+  #  print('please eat',dish)
+#greet('abhi','food')
+  #Python function to calculate the sum of two variables     
+#defining the function    
+def average(a,b):
+    return(a+b)/2
+    #taking values from the user    
+a=float(input("enter a :"))
+b=float(input("enter b :"))
+#printing the sum of a and b    
+print("avereage = ",average(a,b))
