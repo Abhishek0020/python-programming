@@ -1,0 +1,5 @@
+def greetings(names):
+    for name in names:
+        print('hello',name)
+names=['abhi','rahul','jyoti']
+greetings(names)
